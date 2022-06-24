@@ -1,4 +1,0 @@
-
-interface ua.lviv.homework.MyAnnotation---> type: class java.lang.String field: producer annotation value:  car manufacturer 
-interface ua.lviv.homework.MyAnnotation---> type: class java.lang.String field: model annotation value:  car model 
-interface ua.lviv.homework.MyAnnotation---> type: class java.lang.String field: year annotation value:  year of manufacturing 
